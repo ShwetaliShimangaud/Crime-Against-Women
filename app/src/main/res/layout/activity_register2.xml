@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gradient"
+    tools:context=".Register2">
+
+
+    <EditText
+        android:id="@+id/acard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Aadhar Card number"
+        android:paddingTop="30dp"
+        android:ems="10"
+        android:inputType="text"
+        android:textSize="22sp"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:textColorHint="@color/colorPrimary"/>
+
+    <EditText
+        android:id="@+id/phno1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/r2emergency1"
+        android:ems="10"
+
+        android:inputType="text"
+        android:textSize="22sp"
+        android:paddingTop="30dp"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:textColorHint="@color/colorPrimary"/>
+
+
+
+
+    <EditText
+        android:id="@+id/phno2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/r2emergency2"
+        android:ems="10"
+        android:inputType="text"
+        android:textAlignment="center"
+        android:paddingTop="30dp"
+        android:textSize="22sp"
+        android:textColor="@color/colorAccent"
+        android:textColorHint="@color/colorPrimary"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:id="@+id/register"
+        android:layout_marginTop="30dp"
+        android:textSize="18sp"
+        android:textColor="@color/background"
+        android:background="@drawable/round_button"
+        android:fontFamily="monospace"
+        android:enabled="true"
+        />
+</LinearLayout>

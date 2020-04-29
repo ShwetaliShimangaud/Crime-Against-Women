@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">manipalh</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+    <string name="Close">close</string>
+    <string name="Open">open</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="btn_display">Display</string>
+    <string name="title_activity_viewreport">VIEWREPORT</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_basic">basic</string>
+    <string name="txt_message">txt_message</string>
+
+    <string name="table_heading">Items</string>
+    <string name="table_heading_detail">Value</string>
+    <string name="welcome_message">Scan your aadhaar card to view information</string>
+    <string name="top_bar_message">SCAN AADHAAR CARD</string>
+    <string name="scan_new_card">Scan New Aadhaar Card</string>
+    <string name="view_saved_card">View Saved Aadhaar Cards</string>
+    <string name="label_name">Name</string>
+    <string name="label_uid">UID</string>
+    <string name="label_gender">GENDER</string>
+    <string name="label_yob">YEAR OF BIRTH</string>
+    <string name="label_co">CARE OF</string>
+    <string name="label_vtc">VILLAGE TEHSIL</string>
+    <string name="label_po">POST OFFICE</string>
+    <string name="label_dist">DISTRICT</string>
+    <string name="label_state">STATE</string>
+    <string name="label_pc">POSTAL CODE</string>
+    <string name="label_save">SAVE</string>
+    <string name="label_cancel">CANCEL</string>
+    <string name="no_saved_card">There Is no Saved Aadhar Card</string>
+    <string name="label_home">HOME</string>
+    <string name="label_delete">DELETE</string>
+
+    <string name="danger">DANGER</string>
+    <string name="alert">ALERT</string>
+    //launch complaint
+    <string name="subject">Enter the subject</string>
+    <string name="problem">Enter the problem</string>
+    <string name="send">Send</string>
+    //welcome
+    <string name="welcome">Welcome to the app!</string>
+    <string name="newuser">NEW USER</string>
+    <string name="signup">SIGN UP</string>
+    <string name="already">ALREADY EXISTING</string>
+    <string name="signin">SIGN IN</string>
+    //profile
+    <string name="pname">Name</string>
+    <string name="pcontact">Contact No:</string>
+    <string name="pemail">Email</string>
+    <string name="pemergency1">Emergency No:</string>
+    <string name="pemergency2">Emergency No:</string>
+    <string name="ptag">Do you want to update information</string>
+    <string name="pyes">YES</string>
+    <string name="pno">NO</string>
+    //register
+    <string name="rname">Name</string>
+    <string name="remail">EmailId</string>
+    <string name="rphone1">PHONE No1:</string>
+    <string name="rphone2">PHONE No2:</string>
+    <string name="rimage">SELECT IMAGE</string>
+    <string name="rupload">UPLOAD</string>
+    <string name="rsubmit">SUBMIT</string>
+    //register 1
+    <string name="r1name">Full Name</string>
+    <string name="r1email">EmailId</string>
+    <string name="r1phone1">MOBILE NUMBER:</string>
+    <string name="r1adr">ADDRESS</string>
+    <string name="r1NEXT">NEXT</string>
+    <string name="r1hello">HELLO THERE</string>
+    <string name="r1please">Please fill the following details:</string>
+    //register 2
+    <string name="r2verify">VERIFY</string>
+    <string name="r2pleaselink">(Please create a whatsApp Group and paste the link here)</string>
+    <string name="r2emergency1">MOBILE NUMBER:</string>
+    <string name="r2emergency2">ADDRESS</string>
+    <string name="r2upload">Upload Image</string>
+    <string name="r2hello">REGISTER</string>
+    //REPORT GENERATION
+    <string name="rpanonymous">ANONYMOUS</string>
+    <string name="rpname">PUBLIC</string>
+    <string name="rpnext">NEXT</string>
+    <string name="rpshow">SHOW</string>
+    //SPLASH
+    <string name="deservesafe">YOU DESERVE TO BE SAFE!</string>
+</resources>

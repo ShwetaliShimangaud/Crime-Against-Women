@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">manipalh</string>
+    <string name="title_activity_maps">नक्शा</string>
+    <string name="title_activity_maps2">नक्शा</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+    <string name="Close">बंद करे</string>
+    <string name="Open">खुला</string>
+    <string name="radio_male">पुरुष</string>
+    <string name="radio_female">महिला</string>
+    <string name="btn_display">प्रदर्शन</string>
+    <string name="title_activity_viewreport">रिपोर्ट देखें</string>
+    <string name="action_settings">स्थापना</string>
+    <string name="title_activity_basic">बुनियादी</string>
+    <string name="txt_message">पाठ संदेश
+</string>
+
+    <string name="table_heading">आइटम</string>
+    <string name="table_heading_detail">मूल्य</string>
+    <string name="welcome_message">जानकारी देखने के लिए अपने आधार कार्ड को स्कैन करें
+</string>
+    <string name="top_bar_message">स्कैन आधार कार्ड
+</string>
+    <string name="scan_new_card">नया आधार कार्ड स्कैन करें
+</string>
+    <string name="view_saved_card">सेव्ड आधार कार्ड देखें
+</string>
+    <string name="label_name">नाम</string>
+    <string name="label_uid">यूआईडी</string>
+    <string name="label_gender">लिंग</string>
+    <string name="label_yob">जन्म का साल
+</string>
+    <string name="label_co">की देखभाल</string>
+    <string name="label_vtc">विलेज TEHSIL</string>
+    <string name="label_po">डाक घर
+</string>
+    <string name="label_dist">जिला</string>
+    <string name="label_state">राज्य</string>
+    <string name="label_pc">डाक कोड
+</string>
+    <string name="label_save">सहेजें</string>
+    <string name="label_cancel">रद्द करना
+</string>
+    <string name="no_saved_card">कोई सेव्ड आधार कार्ड नहीं है</string>
+    <string name="label_home">घर</string>
+    <string name="label_delete">हटाना</string>
+
+    <string name="danger">खतरा</string>
+    <string name="alert">चेतावनी</string>
+    //launch complaint
+    <string name="subject">विषय दर्ज करें</string>
+    <string name="problem">समस्या दर्ज करें
+</string>
+    <string name="send">भेजना</string>
+    //welcome
+    <string name="welcome">एप्लिकेशन में आपका स्वागत है!</string>
+    <string name="newuser">नया उपयोगकर्ता
+</string>
+    <string name="signup">साइन अप करें
+</string>
+    <string name="already">पहले से विद्यमान
+</string>
+    <string name="signin">साइन इन करें
+</string>
+    //profile
+    <string name="pname">नाम</string>
+    <string name="pcontact">संपर्क नंबर:</string>
+    <string name="pemail">ईमेल</string>
+    <string name="pemergency1">आपातकालीन नंबर:
+</string>
+    <string name="pemergency2">आपातकालीन नंबर:
+</string>
+    <string name="ptag">क्या आप जानकारी अपडेट करना चाहते हैं
+</string>
+    <string name="pyes">हाँ</string>
+    <string name="pno">नहीं</string>
+    //register
+    <string name="rname">नाम</string>
+    <string name="remail">ईमेल आईडी
+</string>
+    <string name="rphone1">फोन नंबर 1:
+</string>
+    <string name="rphone2">फोन नंबर 2:</string>
+    <string name="rimage">छवि चुने</string>
+    <string name="rupload">डालना</string>
+    <string name="rsubmit">प्रस्तुत</string>
+    //register 1
+    <string name="r1name">पूरा नाम</string>
+    <string name="r1email">ईमेल आईडी</string>
+    <string name="r1phone1">फोन नंबर:</string>
+    <string name="r1adr">पता</string>
+    <string name="r1NEXT">आगे</string>
+    <string name="r1hello">नमस्ते</string>
+    <string name="r1please">कृपया निम्नलिखित विवरण भरें:</string>
+    //register 2
+    <string name="r2verify">सत्यापित करें</string>
+    <string name="r2pleaselink">(कृपया एक व्हाट्सएप ग्रुप बनाएं और लिंक को यहां पेस्ट करें
+)</string>
+    <string name="r2emergency1">मोबाइल नंबर:</string>
+    <string name="r2emergency2">पता</string>
+    <string name="r2upload">तस्वीर डालिये</string>
+    <string name="r2hello">रजिस्टर करें</string>
+    //REPORT GENERATION
+    <string name="rpanonymous">बेनामी</string>
+    <string name="rpname">जनता</string>
+    <string name="rpnext">आगे</string>
+    <string name="rpshow">प्रदर्शन</string>
+    //SPLASH
+    <string name="deservesafe">आप सुरक्षित रहना चाहते हैं!</string>
+</resources>

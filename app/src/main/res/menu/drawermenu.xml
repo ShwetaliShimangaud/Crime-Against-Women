@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/profile" android:title="PROFILE"/>
+    <item android:id="@+id/pc" android:title="LAUNCH COMPLAINT"/>
+    <item android:id="@+id/exp" android:title="REPORT GENERATION"/>
+    <item android:id="@+id/law" android:title="LAWS"/>
+    <item android:id="@+id/faq" android:title="FAQ"/>
+    <item android:id="@+id/piechart" android:title="STATISTICS"/>
+    <item android:id="@+id/product" android:title="PRODUCTS"/>
+</menu>

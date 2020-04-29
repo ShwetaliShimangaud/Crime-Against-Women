@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout2"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/gradientColor"
+
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Select the option:"
+        android:textSize="20dp"
+        android:textColor="#ffffff"
+        />
+    <RadioGroup
+        android:id="@+id/radioname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <RadioButton
+            android:id="@+id/anonymous"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rpanonymous"
+            android:layout_marginLeft="125dp"
+            android:textColor="#ffffff"
+            android:textSize="20dp"
+            android:layout_marginTop="25dp"
+            android:gravity="center"
+           />
+        <RadioButton
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/rpname"
+            android:textColor="#ffffff"
+            android:textSize="20dp"
+            android:layout_marginLeft="125dp"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/sumbit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SUBMIT"
+        android:layout_marginTop="350dp"
+        android:layout_marginLeft="150dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/gradientColor"
+         />
+
+    <EditText
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:inputType="textMultiLine"
+        android:textColor="#ffffff"
+        android:hint="Please enter the report you want to generate here."
+        android:textColorHint="#ffffff"
+        android:layout_marginTop="150dp"
+      />
+
+    <Button
+        android:id="@+id/show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/rpshow"
+        android:layout_marginLeft="150dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/gradientColor"
+        android:layout_marginTop="450dp"/>
+</RelativeLayout>
